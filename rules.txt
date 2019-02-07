@@ -4,3 +4,4 @@
 ||perfmelab.com^$third-party
 ||digitaalburg.com^*banner
 klusidee.nl#@#.header-ads
+Море
