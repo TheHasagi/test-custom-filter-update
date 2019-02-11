@@ -12,3 +12,4 @@ klusidee.nl#@#.header-ads
 Ветер
 Дела-дела
 AdGuard 
+Adblocker
