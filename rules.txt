@@ -1,5 +1,5 @@
 ! Title: Custom filter
-! Version: 2.10.0.12
+! Version: 2.10.0.13
 #%#console.log('test custom rules');
 ||perfmelab.com^$third-party
 ||digitaalburg.com^*banner
