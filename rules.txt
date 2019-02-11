@@ -1,15 +1,9 @@
 ! Title: Custom filter
-
+! Version: 1.0.1
 #%#console.log('test custom rules');
 ||perfmelab.com^$third-party
 ||digitaalburg.com^*banner
 klusidee.nl#@#.header-ads
-Море
-Солнце
-Вода
-Песок
-Волна
-Ветер
-Дела-дела
 AdGuard 
 Adblocker
+Stealth Mode
