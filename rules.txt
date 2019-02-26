@@ -1,5 +1,5 @@
 ! Title: Custom filter
-! Version: 1.0.2
+! Version: 1.0.3
 ! TimeUpdated: 2019-02-23
 #%#console.log('test custom rules');
 ||perfmelab.com^$third-party
