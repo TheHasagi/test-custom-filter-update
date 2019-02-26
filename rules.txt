@@ -1,5 +1,6 @@
 ! Title: Custom filter
 ! Version: 1.0.2
+! TimeUpdated: 2019-02-22
 #%#console.log('test custom rules');
 ||perfmelab.com^$third-party
 ||digitaalburg.com^*banner
