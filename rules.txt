@@ -1,5 +1,5 @@
 ! Title: Custom filter
-! TimeUpdated: 2020-02-29
+! TimeUpdated: 2024-02-29
 #%#console.log('test custom rules');
 ||perfmelab.com^$third-party
 ||digitaalburg.com^*banner
