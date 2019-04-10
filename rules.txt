@@ -1,6 +1,6 @@
 ! Title: Custom filter
-! TimeUpdated: 2019-04-05
-! Version: 20190402
+! TimeUpdated: 2019-04-10
+! Version: 2019-04-10
 ||ldkdierujjfmcn.club^$third-party
 @@||www.artlebedev.ru^$important,document,~extension
 @@||www.artlebedev.ru^$important,document,~extension
